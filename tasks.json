@@ -1,1 +1,42 @@
-[]
+[
+    {
+        "id": 1,
+        "title": "Homework",
+        "description": "Complete it in time",
+        "deadline": "2025-11-02",
+        "priority": "High",
+        "completed": true,
+        "created_at": "2025-10-28 09:58:54",
+        "completed_at": null
+    },
+    {
+        "id": 2,
+        "title": "Complete Python project",
+        "description": "Finish the task tracker application and push to GitHub",
+        "deadline": "2024-11-05",
+        "priority": "High",
+        "completed": true,
+        "created_at": "2024-10-28 14:30:00",
+        "completed_at": "2025-10-28 10:37:38"
+    },
+    {
+        "id": 4,
+        "title": "Exercise",
+        "description": "30 minutes cardio workout",
+        "deadline": null,
+        "priority": "Low",
+        "completed": false,
+        "created_at": "2024-10-28 07:00:00",
+        "completed_at": null
+    },
+    {
+        "id": 5,
+        "title": "Washing Clothes",
+        "description": "Wash and dry clothes before it rains",
+        "deadline": null,
+        "priority": "High",
+        "completed": false,
+        "created_at": "2025-10-28 10:39:28",
+        "completed_at": null
+    }
+]

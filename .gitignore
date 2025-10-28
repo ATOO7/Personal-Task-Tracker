@@ -1,5 +1,17 @@
+# Virtual environment
 venv/
+
+# Python cache and compiled files
 __pycache__/
 *.pyc
+
+# Model and data artifacts
 *.pkl
+tasks.json
+
+# Editor and system files
+.vscode/
 .DS_Store
+*.log
+
+
